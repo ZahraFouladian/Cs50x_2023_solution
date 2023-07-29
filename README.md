@@ -5,6 +5,7 @@ Week 0
         -Scratch
 
 Week 1
+
       -Lab 1: Population
       
       -Mario (Less) 
@@ -12,12 +13,14 @@ Week 1
       -Cash 
 
 Week 2 
+
        -Lab 2: Scrabble 
        
        -Readability 
        
        -Caesar
 Week 3 
+
        -Lab 3: Sort 
        
        -Plurality 
@@ -25,6 +28,7 @@ Week 3
        -Runoff or Tideman 
 
 Week 4
+
         -Lab 4: Volume or Smiley
         
         -Filter (Less) or Filter (More)
@@ -32,11 +36,13 @@ Week 4
         -Recover or Reverse
 
 Week 5
+
         -Lab 5: Inheritance
         
         -Speller
 
 Week 6
+
         -Lab 6: World Cup
         
         -Sentimental / Mario (Less) or Mario (More)
@@ -48,6 +54,7 @@ Week 6
         
 
 Week 7
+
         -Lab 7: Songs
         
         -Movies
@@ -55,16 +62,18 @@ Week 7
         -Fiftyville
 
 Week 8
+
         -Lab 8: Trivia
         
         -Homepage
 
 Week 9
+
         -Lab 9: Birthdays
-        
         -Finance
  
 Final Project
+
         Final Project
 
 
