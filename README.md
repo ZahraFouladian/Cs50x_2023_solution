@@ -20,37 +20,36 @@ Week 3
        -Runoff or Tideman 
 
 Week 4
- Lab 4: Volume or Smiley
- Filter (Less) or Filter (More)
- Recover or Reverse
+        -Lab 4: Volume or Smiley
+        -Filter (Less) or Filter (More)
+        -Recover or Reverse
 
 Week 5
- Lab 5: Inheritance
- Speller
+        -Lab 5: Inheritance
+        -Speller
 
 Week 6
- Lab 6: World Cup
- Sentimental / Hello
- Sentimental / Mario (Less) or Mario (More)
- Sentimental / Cash or Credit
- Sentimental / Readability
- DNA
+        -Lab 6: World Cup
+        -Sentimental / Mario (Less) or Mario (More)
+        -Sentimental / Cash or Credit
+        -Sentimental / Readability
+        -DNA
 
 Week 7
- Lab 7: Songs
- Movies
- Fiftyville
+        -Lab 7: Songs
+        -Movies
+        -Fiftyville
 
 Week 8
- Lab 8: Trivia
- Homepage
+        -Lab 8: Trivia
+        -Homepage
 
 Week 9
- Lab 9: Birthdays
- Finance
+        -Lab 9: Birthdays
+        -Finance
  
 Final Project
- Final Project
+        Final Project
 
 
 
