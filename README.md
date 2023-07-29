@@ -1,27 +1,23 @@
 # Cs50x_2023_solution
 Harvard CS50x — 2023 solutions
 Week 0
-        Scratch
+        -Scratch
 
 Week 1
 
-      Lab 1: Population  
-
-      Mario (Less) 
- 
-      Cash 
+      -Lab 1: Population  
+      -Mario (Less) 
+      -Cash 
 
 Week 2 
 
-       Lab 2: Scrabble 
-       
-       Readability 
-       
-       Caesar
+       -Lab 2: Scrabble 
+       -Readability 
+       -Caesar
 Week 3 
- Lab 3: Sort 
- Plurality 
- Runoff or Tideman 
+       -Lab 3: Sort 
+       -Plurality 
+       -Runoff or Tideman 
 
 Week 4
  Lab 4: Volume or Smiley
