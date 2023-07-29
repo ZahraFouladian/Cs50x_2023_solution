@@ -4,12 +4,17 @@ Week 0
  Scratch
 
 Week 1
+
  Lab 1: Population 
+ 
  Hello 
+ 
  Mario (Less) or Mario (More) 
+ 
  Cash or Credit 
 
 Week 2 
+
  Lab 2: Scrabble 
  Readability 
  Bulbs, Caesar, Substitution or Wordle50 
